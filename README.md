@@ -9,7 +9,7 @@ A subjunctive interface is defined as follows:
 > Subjunctive interfaces support the setting up, viewing and adjustment of 
 > multiple scenarios in parallel, leading to more efficient iteration through 
 > related scenarios, and the opportunity for side-by-side instead of 
-> temporally sep- arated viewing.
+> temporally separated viewing.
 
 \- Lunzer 2005
 

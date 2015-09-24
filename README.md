@@ -1,11 +1,21 @@
 # Reading List
 
 During my PhD, I have come across a number of papers that I think someone should
-read in order to better understand the concept of subjunctive interfaces.
+read in order to better understand the concept of subjunctive interfaces. 
+I believe the concept is ripe for application in today's software and will have
+big part to play in the next generations of creativity software.
+
+A subjunctive interface is defined as follows:
+> Subjunctive interfaces support the setting up, viewing and adjustment of 
+> multiple scenarios in parallel, leading to more efficient iteration through 
+> related scenarios, and the opportunity for side-by-side instead of 
+> temporally sep- arated viewing.
+
+\- Lunzer 2005
 
 ## Aran Lunzer
 
-Aran created the concept of a _subjunctive interface_. He introduces the concept
+Aran created the concept of a _subjunctive interface_. He defines the concept
 in his 1998 and 1999 papers.
 
 * Lunzer, A. Towards the subjunctive interface: General support for parameter exploration by overlaying alternative application states. In Late Breaking Hot Topics Proceedings of IEEE Visualization (Oct. 1998), pp. 45–48.
@@ -27,3 +37,15 @@ in his 1998 and 1999 papers.
 * Lunzer, A., and McNamara, A. It ain’t necessarily so: Checking charts for robustness. Tech. Rep. M-2014-002, Viewpoints Research Institute, 2014.
 
 * Lunzer, A., and Ohshima, Y. What else and where else: Two worthwhile questions for an information interface. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (New York, NY, USA, 2012), NordiCHI ’12, ACM, pp. 815–816.
+
+
+## Robert Woodbury
+
+* Aish, R., and Woodbury, R. Multi-level interaction in parametric design. In Smart Graphics, A. Butz, B. Fisher, A. Kru ̈ger, and P. Olivier, Eds., vol. 3638 of Lecture Notes in Computer Science. Springer Berlin Heidelberg, 2005, pp. 151–162.
+
+*  Woodbury, R. Elements of Parametric Design. Taylor and Francis, 2010.
+
+*  Woodbury, R., Kolaric ́, S., Erhan, H., and Guenther, J. Unconventional Computing. Riverside
+Architectural Press, 2013, ch. Exploring for Designs: Five Basic Elements, pp. 210–215.
+
+*  Woodbury, R. F., and Burrow, A. L. Whither design space? AIE EDAM: Artificial Intelligence for Engineering Design, Analysis, and Manufacturing 20 (5 2006), 63–82.

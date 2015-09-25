@@ -39,13 +39,26 @@ in his 1998 and 1999 papers.
 * Lunzer, A., and Ohshima, Y. What else and where else: Two worthwhile questions for an information interface. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (New York, NY, USA, 2012), NordiCHI ’12, ACM, pp. 815–816.
 
 
+## Michael Terry
+
+* Terry, M. Set-Based User Interaction. PhD thesis, Georgia Institute of Technology, 2005.
+
+*  Terry, M., and Mynatt, E. D. Recognizing creative needs in user interface design. In Proceedings of
+the 4th conference on Creativity & cognition (New York, NY, USA, 2002), C&C ’02, ACM, pp. 38–44.
+
+* Terry, M., and Mynatt, E. D. Side views: persistent, on-demand previews for open-ended tasks. In Proceedings of the 15th annual ACM symposium on User interface software and technology (New York, NY, USA, 2002), UIST ’02, ACM, pp. 71–80.
+
+* Terry, M., and Mynatt, E. D. Enhancing general-purpose tools with multi-state previewing capa- bilities. Knowledge-Based Systems 18, 8 (2005), 415 – 425.
+
+* Terry, M., Mynatt, E. D., Nakakoji, K., and Yamamoto, Y. Variation in element and action: supporting simultaneous development of alternative solutions. In Proceedings of the SIGCHI conference on Human factors in computing systems (New York, NY, USA, 2004), CHI ’04, ACM, pp. 711–718.
+
 ## Robert Woodbury
 
-* Aish, R., and Woodbury, R. Multi-level interaction in parametric design. In Smart Graphics, A. Butz, B. Fisher, A. Kru ̈ger, and P. Olivier, Eds., vol. 3638 of Lecture Notes in Computer Science. Springer Berlin Heidelberg, 2005, pp. 151–162.
+* Aish, R., and Woodbury, R. Multi-level interaction in parametric design. In Smart Graphics, A. Butz, B. Fisher, A. Krüger, and P. Olivier, Eds., vol. 3638 of Lecture Notes in Computer Science. Springer Berlin Heidelberg, 2005, pp. 151–162.
 
 *  Woodbury, R. Elements of Parametric Design. Taylor and Francis, 2010.
 
-*  Woodbury, R., Kolaric ́, S., Erhan, H., and Guenther, J. Unconventional Computing. Riverside
+*  Woodbury, R., Kolarić, S., Erhan, H., and Guenther, J. Unconventional Computing. Riverside
 Architectural Press, 2013, ch. Exploring for Designs: Five Basic Elements, pp. 210–215.
 
 *  Woodbury, R. F., and Burrow, A. L. Whither design space? AIE EDAM: Artificial Intelligence for Engineering Design, Analysis, and Manufacturing 20 (5 2006), 63–82.
